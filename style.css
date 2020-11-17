@@ -1017,6 +1017,9 @@ ul.social-icons {
 }
 /* Extra small devices (phones, 411px and down) */
 @media only screen and (max-width: 411px) {
+  body {
+    background-colour: #212121;
+  }
   .text-1 {
     font-size: 35px;
     letter-spacing: 0px;
